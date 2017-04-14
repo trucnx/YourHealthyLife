@@ -1,8 +1,8 @@
-Template
+Topic: T? Y?N Åö S?C KH?E!
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+T?ng h?p c?c n?i dung gi?i thi?u v? T? Y?N v? T?C D?NG c?a T? Y?N v?i S?C KH?E
+
 
 Look how easy it is to use:
 
@@ -10,32 +10,27 @@ Look how easy it is to use:
     # Get your stuff done
     project.do_stuff()
 
-Features
+T? Y?N
 --------
 
-- Be awesome
-- Make things faster
+- Gi?i thi?u v? y?n s?o
+- C?c lo?i y?n s?o
+- C?ch s? ch? y?n s?o
+- C?ch b?o qu?n y?n s?o
+- L?u ? khi d?ng y?n s?o
+- M?t s? m?n ?n t? y?n s?o 
 
-Installation
+T?C D?NG c?a T? Y?N v?i S?C KH?E
 ------------
 
-Install $project by running:
+- T?c d?ng c?a y?n Ågth?n d??cÅh v?i s?c kh?e v? s?c ??p c?a ch? em ph? n?
 
-    install project
-
-Contribute
+Healthy and Happy Lifestyle
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Enjoy your life!
 
-Support
+ÅöÅöÅö Li?n h? ÅöÅöÅö
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+Ms.Minh - 0914360695
