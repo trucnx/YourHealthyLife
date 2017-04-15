@@ -23,6 +23,8 @@ TỔ YẾN & SỨC KHỎE
 
 .. _question:
 
+.. image:: /img/yen45.png
+
 .. toctree::
    :maxdepth: 2
    :glob:
