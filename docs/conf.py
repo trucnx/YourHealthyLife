@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Read the Docs Template'
+project = u'Healthy and Happy Lifestyle'
 copyright = u'2017, YourHealthyLife - Ms.Minh'
 
 # The version info for the project you're documenting, acts as replacement for
