@@ -32,7 +32,7 @@ Hàm lượng dinh dưỡng của Tổ Yến
 ``Tổ yến`` được kết tinh từ nước bọt tiết ra từ ``cặp tuyến dưới lưỡi của chim yến``.
 Hàm lượng dinh dưỡng của Tổ yến được khoa học giải mã như sau:
 
-``Protein (50-60%), đạm cao nhưng lượng mỡ (lipit) là rất thấp (~0%).``
+``Protein (50-60%)``, ``đạm cao nhưng lượng mỡ (lipit) là rất thấp (~0%).``
 
 ``Các axit amin :``
 Glycine (1.99%) tốt cho da.
@@ -71,7 +71,7 @@ Selen: chống lão hóa, chống phóng xạ.
 Ngoài ra, chất Threonine trong yến sào còn là chất hình thành eslatine và collagen của da giúp làm chậm quá trình lão hóa của da, làm đẹp da, làm cho nước da hồng hào, kéo dài tuổi thọ, kích thích phát triển và trẻ hóa tế bào.
 Bên cạnh đó, yến sào chỉ chứa đường tự nhiên galactose mà không có chất béo, thích hợp dùng mỗi ngày mà không sợ tăng cân. 
 
-Vì thế, ``nếu ăn yến sào thường xuyên khoảng 10gram/ngày`` sẽ giúp cho làn da ít bị nổi mụn, xóa tàn nhang, hết vết nám, mịn màng hồng hào đẹp tự nhiên, đặc biệt đẩy lùi quá trình lão hóa.
+Vì thế, nếu ``ăn yến sào`` ``thường xuyên khoảng 10gram/ngày`` sẽ giúp cho làn da ít bị nổi mụn, xóa tàn nhang, hết vết nám, mịn màng hồng hào đẹp tự nhiên, đặc biệt đẩy lùi quá trình lão hóa.
 
 .. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695
 .. image:: /img/yen06.jpg

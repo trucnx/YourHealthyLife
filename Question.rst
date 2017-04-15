@@ -213,6 +213,8 @@ Khả năng hấp thụ các chất dinh dưỡng vào cơ thể con người l�
 
 Khi hấp cách thủy, nhiệt độ trong chén đựng tổ yến không thể vượt quá 100 độC, các chất dinh dượng trong yến sào được bảo lưu tốt nhất. Nếu dùng phương pháp nấu trực tiếp thì rất khó điều chỉnh được nhiệt độ, khi đó nhiệt độ quá cao sẽ phá hủy các chất dinh dưỡng tự nhiên trong yến sào. 
 
+.. _in-q22:
+
 22. Tổ yến sau khi hấp cách thủy bị tan ra, có phải là tổ yến giả?
 --------
 

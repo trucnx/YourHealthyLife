@@ -14,7 +14,7 @@ Phụ nữ vốn luôn quan tâm đến việc giữ gìn làn da và vóc dáng
 
 Thành phần tổ yến có chứa nhiều threonine là chất hình thành elastine và collagen giúp ngăn ngừa lão hóa, duy trì làn da tươi trẻ, giúp kéo dài nét thanh xuân cho chị em. Hơn nữa, trong yến chỉ có đường tự nhiên galactose mà không chứa chất béo, có thể dùng mỗi ngày mà không sợ tăng cân.
 
-``Gìn giữ vẻ mịn màng, tươi trẻ của làn da``
+``Gìn giữ vẻ mịn màng``, ``tươi trẻ của làn da``
 
 Tổ yến còn chứa hàm lượng vi chất cao bao gồm các  axit amin không thay thế được.
 Trong đó có một hàm lượng rất lớn proline mà sẽ bổ sung lý tưởng cho việc phục hồi các cơ, các mô và da. 
