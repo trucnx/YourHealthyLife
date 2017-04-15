@@ -17,13 +17,11 @@ TỔ YẾN & SỨC KHỎE
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption:TỔ YẾN VỚI PHỤ NỮ - BÍ QUYẾT ĐỂ KHỎE ĐẸP
+   :caption: TỔ YẾN VỚI PHỤ NỮ - BÍ QUYẾT ĐỂ KHỎE ĐẸP
 
    Nest02
 
 .. _question:
-
-.. image:: /img/yen45.jpg
 
 .. toctree::
    :maxdepth: 2
