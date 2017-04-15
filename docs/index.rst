@@ -21,6 +21,8 @@ TỔ YẾN & SỨC KHỎE
 
    02-to-yen-voi-phu-nu
 
+.. image:: /img/yen48.jpg
+
 .. _mebau:
 
 .. toctree::
@@ -38,6 +40,8 @@ TỔ YẾN & SỨC KHỎE
    :caption: ĐÀN ÔNG CÓ NÊN DÙNG TỔ YẾN?
 
    04-dan-ong-nen-dung-yen
+
+.. image:: /img/yen42.jpg
 
 .. _question:
 

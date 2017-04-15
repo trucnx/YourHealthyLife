@@ -1,7 +1,7 @@
 MẸ BẦU ĂN YẾN - MẸ KHỎE, CON THÔNG MINH
 ========
 
-1. Cung cấp dưỡng chất cần thiết cho sức khỏe của mẹ và sự phát triển của bé
+Cung cấp dưỡng chất cần thiết cho sức khỏe của mẹ và sự phát triển của bé
 --------
 
 Tổ yến chứa nhiều protein và 18 loại axit amin, cùng với khoáng chất Magie, Sắt, Kẽm, thiết yếu cho sức khỏe bà bầu.
@@ -10,12 +10,12 @@ Tổ yến còn chứa hàm lượng vi chất cao bao gồm các  axit amin kh�
 
 .. image:: /img/yen46.jpg
 
-2. Chống trầm cảm, giảm lo âu, mệt mỏi cho mẹ bầu
+Chống trầm cảm, giảm lo âu, mệt mỏi cho mẹ bầu
 --------
 
 Axit amin Tryptophan có trong tổ yến tác dụng chống trầm cảm, làm hưng phấn, giảm căng thẳng, lo âu, mệt mỏi cho bà mẹ, thúc đẩy quá trình phục hồi cho người mẹ sau khi sinh. Đây cũng là một tiền chất của serotonin và melatonin trong tổ yến tác dụng tăng trưởng tối ưu cho trẻ, và cân bằng nitrogen ở bà mẹ.
 
-3. Thai nhi phát triển khỏe mạnh và toàn diện
+Thai nhi phát triển khỏe mạnh và toàn diện
 --------
 
 Ngoài ra, tổ yến còn chứa axit amin Glycine giúp giảm nguy cơ tiền kinh giật ở bà mẹ mang thai, giảm nguy cơ khuyết tật ống thần kinh ở thai nhi, thúc đẩy quá trình phát triển toàn diện cho trẻ.
