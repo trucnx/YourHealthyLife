@@ -1,8 +1,6 @@
 Tổ yến
 ========
 
-.. image:: /img/yen02.jpg
-
 * :ref:`in-gtys`
 * :ref:`in-clys`
 * :ref:`in-cscys`
@@ -70,6 +68,6 @@ Một số món từ yến sào
 
 - TBD
 
-.. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695.
+.. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695
 .. image:: /img/yen06.jpg
 

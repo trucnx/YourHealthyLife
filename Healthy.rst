@@ -49,5 +49,5 @@ Yến sào đối với người lớn tuổi.
 
 - TBD
 
-.. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695.
+.. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695
 .. image:: /img/yen06.jpg
