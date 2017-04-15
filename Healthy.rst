@@ -1,4 +1,4 @@
-Tác dụng yến sào đối với sức khỏe
+Tác dụng đối với sức khỏe
 ========
 
 - Yến là “thần dược” với sức khỏe và sắc đẹp của chị em phụ nữ.
