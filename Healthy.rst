@@ -4,8 +4,7 @@ TỔ YẾN VỚI PHỤ NỮ
 BÍ QUYẾT ĐỂ KHỎE ĐẸP MỖI NGÀY
 --------
 
-Phụ nữ vốn luôn quan tâm đến việc giữ gìn làn da và vóc dáng,
- do vậy thường bổ sung những thực phẩm cần thiết để làn da luôn được tươi trẻ, mịn màng.
+Phụ nữ vốn luôn quan tâm đến việc giữ gìn làn da và vóc dáng, do vậy thường bổ sung những thực phẩm cần thiết để làn da luôn được tươi trẻ, mịn màng.
   
 ``Tổ yến`` là một trong những thực phẩm ngoài tác dụng bồi bổ cơ thể còn hỗ trợ làm đẹp da và dáng cho phụ nữ.
 
@@ -13,8 +12,7 @@ Phụ nữ vốn luôn quan tâm đến việc giữ gìn làn da và vóc dáng
 
 ``Thần dược chống lão hóa``
 
-Thành phần tổ yến có chứa nhiều threonine là chất hình thành elastine và collagen giúp ngăn ngừa lão hóa, duy trì làn da tươi trẻ, giúp kéo dài nét thanh xuân cho chị em.
- Hơn nữa, trong yến chỉ có đường tự nhiên galactose mà không chứa chất béo, có thể dùng mỗi ngày mà không sợ tăng cân.
+Thành phần tổ yến có chứa nhiều threonine là chất hình thành elastine và collagen giúp ngăn ngừa lão hóa, duy trì làn da tươi trẻ, giúp kéo dài nét thanh xuân cho chị em. Hơn nữa, trong yến chỉ có đường tự nhiên galactose mà không chứa chất béo, có thể dùng mỗi ngày mà không sợ tăng cân.
 
 ``Gìn giữ vẻ mịn màng, tươi trẻ của làn da``
 
