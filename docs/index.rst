@@ -2,6 +2,8 @@
 TỔ YẾN ★ SỨC KHỎE
 ==================================================
 
+.. image:: /img/yen43.png
+
 .. toctree::
    :maxdepth: 2
    :glob:
