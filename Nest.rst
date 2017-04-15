@@ -11,17 +11,12 @@ Giới thiệu yến sào
 --------
 
 ``Yến sào``, hay ``tổ chim yến`` là tên một loại thực phẩm - dược phẩm nổi tiếng được làm bằng ``tổ chim yến``.
-
 Đây là món cao lương mỹ vị của các quốc gia Đông Á như Nhật Bản, Triều Tiên, Trung Quốc, Việt Nam và nhiều quốc gia khác.
 
 Ở Việt Nam, ``yến sào`` được xếp vào hàng Bát Trân (tám món ăn cao lương mĩ vị).
-
 ``Món súp yến sào`` được mệnh danh là "món trứng cá caviar của phương Đông".
-
 ``Món yến sào`` đã được người Trung Hoa tiêu thụ từ cách đây 400 năm.
-
 ``Món súp yến sào`` trông giống như chất keo a dao được nấu với gia vị có bổ sung thêm một ít tinh bột, đường.
-
 ``Yến sào`` là một trong những món ăn được làm từ động vật đắt đỏ nhất, ở Hongkong giá của một bát canh tổ yến khoảng 60 USD.
 
 Tổ yến được tìm thấy trên vách đá, hang động nơi chim yến sinh sống.
@@ -54,4 +49,4 @@ Lưu ý khi dùng yến sào
 Một số món từ yến sào
 --------
 
-.. Ms.Minh:: sdt: 0914360695
+.. Ms.Minh:: sdt-0914360695
