@@ -1,53 +1,34 @@
-Tác dụng đối với sức khỏe
+TỔ YẾN VỚI PHỤ NỮ
 ========
 
-* :ref:`in-ht01`
-* :ref:`in-ht02`
-* :ref:`in-ht03`
-* :ref:`in-ht04`
-* :ref:`in-ht05`
-* :ref:`in-ht06`
-
-.. _in-ht01:
-
-Yến là “thần dược” với sức khỏe và sắc đẹp của chị em phụ nữ.
---------
-- TBD
-
-.. _in-ht02:
-
-Yến rất tốt cho trẻ nhỏ.
+BÍ QUYẾT ĐỂ KHỎE ĐẸP MỖI NGÀY
 --------
 
-- TBD
+Phụ nữ vốn luôn quan tâm đến việc giữ gìn làn da và vóc dáng,
+ do vậy thường bổ sung những thực phẩm cần thiết để làn da luôn được tươi trẻ, mịn màng.
+  
+``Tổ yến`` là một trong những thực phẩm ngoài tác dụng bồi bổ cơ thể còn hỗ trợ làm đẹp da và dáng cho phụ nữ.
 
-.. _in-ht03:
+.. image:: /img/yen43.jpg
 
-Yến đối với phụ nữ mang thai.
---------
+``Thần dược chống lão hóa``
 
-- TBD
+Thành phần tổ yến có chứa nhiều threonine là chất hình thành elastine và collagen giúp ngăn ngừa lão hóa, duy trì làn da tươi trẻ, giúp kéo dài nét thanh xuân cho chị em.
+ Hơn nữa, trong yến chỉ có đường tự nhiên galactose mà không chứa chất béo, có thể dùng mỗi ngày mà không sợ tăng cân.
 
-.. _in-ht04:
+``Gìn giữ vẻ mịn màng, tươi trẻ của làn da``
 
-Yến sào đối với người bệnh.
---------
+Tổ yến còn chứa hàm lượng vi chất cao bao gồm các  axit amin không thay thế được.
+Trong đó có một hàm lượng rất lớn proline mà sẽ bổ sung lý tưởng cho việc phục hồi các cơ, các mô và da. 
+Phụ nữ nếu ăn tổ yến thường xuyên sẽ ít bị nổi mụn, tàn nhang, vết nám, hơn nữa còn có được làn da mịn màng, đặc biệt làm chậm quá trình lão hóa.
 
-- TBD
+Bí quyết trắng da tự nhiên của phụ nữ.
 
-.. _in-ht05:
+Bí quyết của họ nằm ở việc tắm dưỡng bằng tổ yến và phương pháp này được phụ nữ trên toàn thế giới ưa chuộng.
 
-Yến sào đối với “phái mạnh”.
---------
+.. image:: /img/yen44.jpg
 
-- TBD
-
-.. _in-ht06:
-
-Yến sào đối với người lớn tuổi.
---------
-
-- TBD
+Thời điểm ăn tổ yến tốt nhất là lúc bụng đói vào buổi sáng hoặc buổi tối trước khi đi ngủ để dưỡng chất được hấp thụ tốt nhất.
 
 .. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695
 .. image:: /img/yen06.jpg
