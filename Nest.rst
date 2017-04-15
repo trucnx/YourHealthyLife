@@ -40,25 +40,36 @@ Tổ trắng và tổ màu hồng máu (yến Huyết) được cho là giàu di
 Các loại yến sào
 --------
 
+- TBD
+
 .. _in-cscys:
 
 Cách sơ chế yến sào
 --------
+
+- TBD
 
 .. _in-cbqys:
 
 Cách bảo quản yến sào
 --------
 
+- TBD
+
 .. _in-lykdys:
 
 Lưu ý khi dùng yến sào
 --------
+
+- TBD
 
 .. _in-msmatys:
 
 Một số món từ yến sào
 --------
 
+- TBD
+
 .. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695.
+.. image:: /img/yen06.jpg
 
