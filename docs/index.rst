@@ -2,7 +2,7 @@
 TỔ YẾN ★ SỨC KHỎE!
 ==================================================
 
-Healthy and Happy Lifestyle:
+TỔ YẾN ★ SỨC KHỎE:
 
 .. toctree::
    :maxdepth: 2
