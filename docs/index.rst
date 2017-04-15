@@ -4,11 +4,15 @@ TỔ YẾN & SỨC KHỎE
 
 .. image:: /img/yen43.png
 
+.. _toyen:
+
 .. toctree::
    :maxdepth: 2
    :glob:
 
    Nest01
+
+.. _toyenvoiphunu:
 
 .. toctree::
    :maxdepth: 2
