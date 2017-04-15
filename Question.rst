@@ -1,9 +1,6 @@
 Các câu hỏi thường gặp về yến sào
 ========
 
-Các câu hỏi thường gặp về yến sào
---------
-
 * :ref:`in-q01`
 * :ref:`in-q02`
 * :ref:`in-q03`
