@@ -49,5 +49,5 @@ Lưu ý khi dùng yến sào
 Một số món từ yến sào
 --------
 
-.. note:: You can use ``sphinx-autobuild`` to auto-reload your docs. Run ``sphinx-autobuild . _build_html`` instead.
-.. Ms.Minh:: Điện thoại 0914360695.
+.. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695.
+
