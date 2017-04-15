@@ -1,1 +1,1 @@
-.. include:: ../Healthy.rst
+.. include:: ../healthy.rst

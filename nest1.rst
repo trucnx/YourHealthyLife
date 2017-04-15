@@ -2,6 +2,11 @@ Tổ yến
 ========
 
 * :ref:`in-gtys`
+* :ref:`in-clys`
+* :ref:`in-cscys`
+* :ref:`in-cbqys`
+* :ref:`in-lykdys`
+* :ref:`in-msmatys`
 
 .. _in-gtys:
 
@@ -26,18 +31,42 @@ Do tính chất nguy hiểm và hạn chế số lượng đảo có thể khai 
 
 Tổ trắng và tổ màu hồng máu (yến Huyết) được cho là giàu dinh dưỡng hơn và quý hơn.
 
-Ở Việt Nam, các địa phương có yến sào tự nhiên là một số hòn đảo của một số tỉnh Nam Trung Bộ như tỉnh Phú Yên, Khánh Hòa... Các tổ chim yến thường được làm ở các đảo trên các vách đá và việc khai thác yến sào thường rất nguy hiểm do những giàn giáo cao bằng tre, công cụ thô sơ, vách đá hiểm trở.
-Gần đây, một số nơi đã nuôi yến trong nhà trong thành phố để thu hoạch yến sào mà đặc biệt là tại thành phố Nha Trang. Những căn nhà nuôi yến được cải tạo để gần giống với điều kiện tự nhiên nơi yến thường hay làm tổ. Nha Trang cũng là nơi du khách có thể thưởng thức món yến sào thường xuyên tại các nhà hàng sang trọng.
+Ở Việt Nam, các địa phương có yến sào tự nhiên là một số hòn đảo của một số tỉnh Nam Trung Bộ như tỉnh Phú Yên, Khánh Hòa... Các tổ chim yến thường được làm ở các đảo trên các vách đá và việc khai thác yến sào thường rất nguy hiểm do những giàn giáo cao bằng tre, công cụ thô sơ, vách đá hiểm trở. Gần đây, một số nơi đã nuôi yến trong nhà trong thành phố để thu hoạch yến sào mà đặc biệt là tại thành phố Nha Trang. Những căn nhà nuôi yến được cải tạo để gần giống với điều kiện tự nhiên nơi yến thường hay làm tổ. Nha Trang cũng là nơi du khách có thể thưởng thức món yến sào thường xuyên tại các nhà hàng sang trọng.
 
-Tổ yến
+.. _in-clys:
 
-.. image:: /img/yen02.jpg
+Các loại yến sào
+--------
 
-Nuôi yến trong nhà
+- TBD
 
-.. image:: /img/yen09.jpg
+.. _in-cscys:
 
-.. image:: /img/yen11.jpg
+Cách sơ chế yến sào
+--------
+
+- TBD
+
+.. _in-cbqys:
+
+Cách bảo quản yến sào
+--------
+
+- TBD
+
+.. _in-lykdys:
+
+Lưu ý khi dùng yến sào
+--------
+
+- TBD
+
+.. _in-msmatys:
+
+Một số món từ yến sào
+--------
+
+- TBD
 
 .. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695
 .. image:: /img/yen06.jpg
