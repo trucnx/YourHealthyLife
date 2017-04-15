@@ -1,1 +1,1 @@
-.. include:: ../nest.rst
+.. include:: ../Nest.rst
