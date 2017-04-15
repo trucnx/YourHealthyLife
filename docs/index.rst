@@ -17,7 +17,7 @@ TỔ YẾN & SỨC KHỎE
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: TỔ YẾN VỚI PHỤ NỮ - BÍ QUYẾT ĐỂ KHỎE ĐẸP MỖI NGÀY
+   :caption:TỔ YẾN VỚI PHỤ NỮ, BÍ QUYẾT ĐỂ KHỎE ĐẸP
 
    Nest02
 
