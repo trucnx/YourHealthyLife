@@ -10,7 +10,7 @@ TỔ YẾN & SỨC KHỎE
    :maxdepth: 2
    :glob:
 
-   Nest01
+   01-cong-dung-tu-yen
 
 .. _toyenvoiphunu:
 
@@ -19,16 +19,7 @@ TỔ YẾN & SỨC KHỎE
    :glob:
    :caption: TỔ YẾN VỚI PHỤ NỮ - BÍ QUYẾT ĐỂ KHỎE ĐẸP
 
-   Nest02
-
-.. _question:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: CÁC CÂU HỎI THƯỜNG GẶP VỀ YẾN SÀO
-
-   Nest03
+   02-to-yen-voi-phu-nu
 
 .. _mebau:
 
@@ -37,7 +28,25 @@ TỔ YẾN & SỨC KHỎE
    :glob:
    :caption: MẸ BẦU ĂN YẾN - MẸ KHỎE, CON THÔNG MINH
 
-   Nest04
+   03-me-bau-an-yen
+
+.. _4men:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: ĐÀN ÔNG CÓ NÊN DÙNG TỔ YẾN?
+
+   04-dan-ong-nen-dung-yen
+
+.. _question:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: CÁC CÂU HỎI THƯỜNG GẶP VỀ YẾN SÀO
+
+   99-cau-hoi-ve-yen
 
 .. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695
 .. image:: /img/yen06.jpg

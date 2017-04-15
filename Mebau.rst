@@ -26,7 +26,7 @@ Theo nghiên cứu những người mẹ khi mang thai được ăn yến thì e
 Việc bồi dưỡng cho phụ nữ có thai là điều cần thiết.
 Tuy nhiên, bồi bổ cho phụ nữ mang thai và thai nhi luôn phải có sự điều hòa.
 Khi dùng tổ yến để bồi bổ cho cơ thể thì cũng tùy thuộc vào thể trạng của mỗi bà mẹ mang thai.
-Nếu như sử dụng không đúng cách hoặc không đúng liều lượng và thời kỳ thì sẽảnh hưởng không tốt đến sức khỏe của bà mẹ lẫn thai nhi.
+Nếu như sử dụng không đúng cách hoặc không đúng liều lượng và thời kỳ thì sẽ ảnh hưởng không tốt đến sức khỏe của bà mẹ lẫn thai nhi.
 Trước khi ăn nên cần sự tư vấn của bác sĩ, dùng như thế nào cho đúng cách dung lượng để tốt cho mẹ lẫn con.
 
 .. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695
