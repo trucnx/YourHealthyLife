@@ -49,4 +49,4 @@ Lưu ý khi dùng yến sào
 Một số món từ yến sào
 --------
 
-.. Ms.Minh:: sdt-0914360695
+.. Ms Minh:: Điện thoại 0914360695
