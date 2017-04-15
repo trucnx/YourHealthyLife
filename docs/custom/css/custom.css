@@ -3,6 +3,8 @@
 */
 /* override table width restrictions */
 
+@import url("theme.css");
+
 .wy-table-responsive table td, .wy-table-responsive table th {
     /* !important prevents the common CSS stylesheets from
        overriding this as on RTD they are loaded after this stylesheet */
