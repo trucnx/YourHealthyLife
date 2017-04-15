@@ -1,11 +1,14 @@
 Tổ yến
 ========
 
-.. image:: https://www.dropbox.com/pri/get/yourhealthylife/yen02.jpg?_subject_uid=56773272&w=AABvZbRkX9bZE9iAsdhZ2tDWEq2NC-vIbNRtcFBwcYADYw
+.. image:: /img/yen02.jpg
 
 * :ref:`in-gtys`
 * :ref:`in-clys`
 * :ref:`in-cscys`
+* :ref:`in-cbqys`
+* :ref:`in-lykdys`
+* :ref:`in-msmatys`
 
 .. _in-gtys:
 
@@ -42,11 +45,17 @@ Các loại yến sào
 Cách sơ chế yến sào
 --------
 
+.. _in-cbqys:
+
 Cách bảo quản yến sào
 --------
 
+.. _in-lykdys:
+
 Lưu ý khi dùng yến sào
 --------
+
+.. _in-msmatys:
 
 Một số món từ yến sào
 --------
