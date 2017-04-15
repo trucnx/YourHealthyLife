@@ -26,7 +26,7 @@ Nuôi yến trong nhà
 
 .. image:: /img/yen11.jpg
 
-Hàm lượng dinh dưỡng của Tổ yến
+Hàm lượng dinh dưỡng của Tổ Yến
 --------
 
 ``Tổ yến`` được kết tinh từ nước bọt tiết ra từ ``cặp tuyến dưới lưỡi của chim yến``.
