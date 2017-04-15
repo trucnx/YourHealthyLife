@@ -1,4 +1,4 @@
-Topic
+Template
 ========
 
 Healthy and Happy Lifestyle
