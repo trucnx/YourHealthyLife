@@ -35,10 +35,16 @@ Hàm lượng dinh dưỡng của Tổ yến được khoa học giải mã như
 ``Protein (50-60%)``, ``đạm cao nhưng lượng mỡ (lipit) là rất thấp (~0%).``
 
 ``Các axit amin :``
-Glycine (1.99%) tốt cho da.
-Valine (4.12%) chữa lành tế bào cơ và hình thành tế bào mới.
-Leucine (4.56%) điều chỉnh hàm lượng đường trong máu.
-Isoleucine (2.04%) phục hồi sức khỏe.
+
+.. code-block:: axitamin
+
+    Glycine (1.99%) tốt cho da.
+    
+    Valine (4.12%) chữa lành tế bào cơ và hình thành tế bào mới.
+    
+    Leucine (4.56%) điều chỉnh hàm lượng đường trong máu.
+    
+    Isoleucine (2.04%) phục hồi sức khỏe.
 
 Threonine (2.69%) rất tốt cho hoạt động gan, tăng cường hệ miễn dịch và thúc đẩy cơ thể hấp thụ mạnh các dưỡng chất.
 Methionine (0.46%) hỗ trợ chống viêm khớp, tốt cho cơ bắp.
