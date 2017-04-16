@@ -21,8 +21,6 @@ TỔ YẾN & SỨC KHỎE
 
    02-to-yen-voi-phu-nu
 
-.. image:: /img/yen48.jpg
-
 .. _mebau:
 
 .. toctree::
@@ -40,6 +38,35 @@ TỔ YẾN & SỨC KHỎE
    :caption: ĐÀN ÔNG CÓ NÊN DÙNG TỔ YẾN?
 
    04-dan-ong-nen-dung-yen
+
+.. image:: /img/yen51.jpg
+
+.. _5nguoicaotuoi:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: TỔ YẾN TĂNG CƯỜNG SỨC KHỎE CHO NGƯỜI GIÀ
+
+   05-yen-sao-cho-nguoi-cao-tuoi
+
+.. _6nguoibenh:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: TỔ YẾN ĐỐI VỚI NGƯỜI BỆNH
+
+   06-yen-sao-cho-nguoi-benh
+
+.. _7treem:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: TÁC DỤNG CỦA YẾN SÀO ĐỐI VỚI TRẺ EM
+
+   07-yen-sao-cho-tre-em
 
 .. image:: /img/yen42.jpg
 

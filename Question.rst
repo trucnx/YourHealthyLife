@@ -1,6 +1,8 @@
 CÁC CÂU HỎI THƯỜNG GẶP VỀ YẾN SÀO
 ========
 
+.. image:: /img/yen48.jpg
+
 * :ref:`in-q01`
 * :ref:`in-q02`
 * :ref:`in-q03`
