@@ -22,11 +22,11 @@ Phụ nữ nếu ăn tổ yến thường xuyên sẽ ít bị nổi mụn, tàn
 
 Bí quyết trắng da tự nhiên của phụ nữ.
 
-Bí quyết của họ nằm ở việc tắm dưỡng bằng tổ yến và phương pháp này được phụ nữ trên toàn thế giới ưa chuộng.
+Bí quyết của họ nằm ở việc tắm dưỡng bằng ``tổ yến`` và phương pháp này được phụ nữ trên toàn thế giới ưa chuộng.
 
 .. image:: /img/yen44.jpg
 
-Thời điểm ăn tổ yến tốt nhất là lúc bụng đói vào buổi sáng hoặc buổi tối trước khi đi ngủ để dưỡng chất được hấp thụ tốt nhất.
+Thời điểm ``ăn tổ yến`` tốt nhất là lúc bụng đói ``vào buổi sáng`` hoặc ``buổi tối`` trước khi đi ngủ để dưỡng chất được hấp thụ tốt nhất.
 
 .. note:: Liên hệ Ms.Minh - Điện thoại: 0914360695
 .. image:: /img/yen06.jpg
